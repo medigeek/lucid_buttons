@@ -16,7 +16,7 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="icon_topic_solved_unset.svg"
+   sodipodi:docname="icon_topic_solved_set.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/sergey/pix/shared/check.png"
    inkscape:export-xdpi="90"
@@ -45,7 +45,7 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="10.730345"
+     inkscape:zoom="10"
      inkscape:cx="20.464129"
      inkscape:cy="19.357237"
      inkscape:window-x="0"
@@ -341,7 +341,7 @@
      transform="scale(-1,-1)" />
   <text
      xml:space="preserve"
-     style="font-size:24.32155228px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;fill:#abff19;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+     style="font-size:24.32155227999999880px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;fill:#abff19;fill-opacity:1;fill-rule:nonzero;stroke:#686660;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;stroke-opacity:1;stroke-width:0.50000000000000000;stroke-miterlimit:0;stroke-dasharray:none"
      x="20.438944"
      y="18.8354"
      id="text3025"
@@ -352,7 +352,7 @@
        y="18.8354">✓</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:24.32155228px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;fill:#abff19;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+     style="font-size:24.32155227999999880px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;fill:#abff19;fill-opacity:1;fill-rule:nonzero;stroke:#686660;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;stroke-opacity:1;stroke-width:0.50000000000000000;stroke-miterlimit:0;stroke-dasharray:none"
      x="20.438944"
      y="38.8354"
      id="text3025-9"
