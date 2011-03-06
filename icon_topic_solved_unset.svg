@@ -16,7 +16,7 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="icon_topic_solved_unset.svg"
+   sodipodi:docname="icon_topic_solved_set.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/sergey/pix/shared/check.png"
    inkscape:export-xdpi="90"
@@ -29,6 +29,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,7 +46,7 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="10.730345"
-     inkscape:cx="7.4132207"
+     inkscape:cx="20.464129"
      inkscape:cy="19.357237"
      inkscape:window-x="0"
      inkscape:window-y="25"
@@ -54,17 +55,6 @@
      inkscape:window-maximized="1" />
   <defs
      id="defs4">
-    <linearGradient
-       id="linearGradient3794">
-      <stop
-         style="stop-color:#fb0000;stop-opacity:1;"
-         offset="0"
-         id="stop3796" />
-      <stop
-         style="stop-color:#721700;stop-opacity:1;"
-         offset="1"
-         id="stop3798" />
-    </linearGradient>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="-50 : 600 : 1"
@@ -262,17 +252,17 @@
        xlink:href="#linearGradient3793-4"
        id="linearGradient3963"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.24997721,0,0,0.81571494,-21.491933,-91.365325)"
+       gradientTransform="matrix(0.24997721,0,0,1.1070417,-21.491933,-113.47423)"
        x1="48.577015"
        y1="66.968521"
        x2="48.577015"
        y2="83.606537" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3794"
+       xlink:href="#linearGradient3813"
        id="linearGradient3966"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.24047837,0,0,0.58427855,-7.2285721,-20.969149)"
+       gradientTransform="matrix(0.24047837,0,0,0.79294949,-7.2285721,-25.23142)"
        x1="70.867714"
        y1="31.620996"
        x2="70.867714"
@@ -330,33 +320,45 @@
     </linearGradient>
   </defs>
   <rect
-     style="fill:url(#linearGradient3966);fill-opacity:1.0;fill-rule:nonzero;stroke:#c61800;stroke-width:1;stroke-opacity:1;display:inline"
+     style="fill:url(#linearGradient3966);fill-opacity:1;fill-rule:nonzero;stroke:#3c3b37;stroke-width:1;stroke-opacity:1;display:inline"
      id="rect3015-0-0"
      width="19"
-     height="14"
+     height="19"
      x="0.5"
-     y="-16.746"
-     ry="2.5774252"
+     y="-19.5"
+     ry="2.5774255"
      rx="2.5774248"
      transform="scale(1,-1)" />
   <rect
-     style="fill:url(#linearGradient3963);fill-opacity:1;fill-rule:nonzero;stroke:#dd4814;stroke-width:1;stroke-opacity:1;display:inline"
+     style="fill:url(#linearGradient3963);fill-opacity:1;fill-rule:nonzero;stroke:#dd4814;stroke-width:0.99999994;stroke-opacity:1;display:inline"
      id="rect3015-3"
      width="19"
-     height="14"
+     height="19"
      x="-19.5"
-     y="-36.858002"
+     y="-39.5"
      ry="2.5774245"
      rx="2.5774248"
      transform="scale(-1,-1)" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path2170-4-9-1"
-     style="fill:none;stroke:#abe520;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-opacity:1;stroke-dasharray:none"
-     d="M 6.685,6.3216123 9.1561047,13.387998 18.161914,1.1746523" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path2170-4-9-1-5"
-     style="fill:none;stroke:#abe520;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-opacity:1;stroke-dasharray:none"
-     d="M 6.6845349,26.545924 9.1556398,33.612311 18.161449,21.398964" />
+  <text
+     xml:space="preserve"
+     style="font-size:24.32155227999999880px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;fill:#ff1919;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+     x="20.438944"
+     y="18.8354"
+     id="text3025"
+     sodipodi:linespacing="100%"><tspan
+       sodipodi:role="line"
+       id="tspan3964"
+       x="20.438944"
+       y="18.8354">✓</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:24.32155227999999880px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;fill:#ff1919;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+     x="20.438944"
+     y="38.8354"
+     id="text3025-9"
+     sodipodi:linespacing="100%"><tspan
+       sodipodi:role="line"
+       id="tspan3964-9"
+       x="20.438944"
+       y="38.8354">✓</tspan></text>
 </svg>

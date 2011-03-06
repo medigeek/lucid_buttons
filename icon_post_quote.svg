@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="icon_post_quote2.svg"
+   sodipodi:docname="icon_post_quote.svg"
    inkscape:export-filename="icon_post_quote.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -237,7 +237,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -269,27 +269,27 @@
        transform="scale(-1,-1)" />
     <text
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="99.65551"
-       y="47.603321"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="97.603195"
+       y="48.263985"
        id="text3012"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan3014"
-         x="99.65551"
-         y="47.603321"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">ΠΑΡΑΘΕΣΗ</tspan></text>
+         x="97.603195"
+         y="48.263985"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">ΠΑΡΑΘΕΣΗ</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="99.597214"
-       y="67.53817"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="97.603195"
+       y="68.263985"
        id="text3012-1"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan3014-9"
-         x="99.597214"
-         y="67.53817"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">ΠΑΡΑΘΕΣΗ</tspan></text>
+         x="97.603195"
+         y="68.263985"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">ΠΑΡΑΘΕΣΗ</tspan></text>
   </g>
 </svg>
