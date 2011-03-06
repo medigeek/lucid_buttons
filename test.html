@@ -1,46 +1,39 @@
 <html>
 <head>
-<!--
-cd el; for i in *.png; do x=`basename $i .png`; echo "#$x a span { background-image: url("el/$i"); }"; done
--->
-<style type="text/css">
+<style type='text/css'>
     body { background-color: gray; }
-    a span.type1 {
-        width: 100px;
-        height: 25px;
-        background-position: 0 0;
-        display: block;
-        background: none no-repeat scroll 0 0 transparent;
-    }
-    a span.type2 {
-        width: 100px;
-        height: 20px;
+    a span {
         background-position: 0 0;
         display: block;
         background: none no-repeat scroll 0 0 transparent;
     }
     a:hover span { background-position: 0 100%; }
-    #button_pm_forward a span { background-image: url(el/button_pm_forward.png); }
-    #button_pm_new a span { background-image: url(el/button_pm_new.png); }
-    #button_pm_reply a span { background-image: url(el/button_pm_reply.png); }
-    #button_topic_locked a span { background-image: url(el/button_topic_locked.png); }
-    #button_topic_new a span { background-image: url(el/button_topic_new.png); }
-    #button_topic_reply a span { background-image: url(el/button_topic_reply.png); }
-    #icon_post_edit a span { background-image: url(el/icon_post_edit.png); }
-    #icon_post_quote a span { background-image: url(el/icon_post_quote.png); }
+    #button_pm_forward a span { width: 90px; height: 25px; background-image: url(el/button_pm_forward.png); }
+    #button_pm_new a span { width: 90px; height: 25px; background-image: url(el/button_pm_new.png); }
+    #button_pm_reply a span { width: 90px; height: 25px; background-image: url(el/button_pm_reply.png); }
+    #button_topic_locked a span { width: 100px; height: 25px; background-image: url(el/button_topic_locked.png); }
+    #button_topic_new a span { width: 90px; height: 25px; background-image: url(el/button_topic_new.png); }
+    #button_topic_reply a span { width: 90px; height: 25px; background-image: url(el/button_topic_reply.png); }
+    #icon_post_edit a span { width: 70px; height: 20px; background-image: url(el/icon_post_edit.png); }
+    #icon_post_quote a span { width: 60px; height: 20px; background-image: url(el/icon_post_quote.png); }
+    #icon_topic_solved_set a span { width: 20px; height: 20px; background-image: url(el/icon_topic_solved_set.png); }
+    #icon_topic_solved_unset a span { width: 20px; height: 20px; background-image: url(el/icon_topic_solved_unset.png); }
+    #template1_90x50 a span { width: 90px; height: 25px; background-image: url(el/template1_90x50.png); }
+    #template2_60x40 a span { width: 60px; height: 20px; background-image: url(el/template2_60x40.png); }
 </style>
 </head>
 <body>
-<!--
-cd el; for i in *.png; do x=`basename $i .png`; echo "<div id=\"$x\"><a href=\"el/$i\" title=\"Test image\"><span class="type1"></span></a></div>"; done
--->
-<div id="button_pm_forward"><a href="el/button_pm_forward.png" title="Test image"><span class="type1"></span></a></div>
-<div id="button_pm_new"><a href="el/button_pm_new.png" title="Test image"><span class="type1"></span></a></div>
-<div id="button_pm_reply"><a href="el/button_pm_reply.png" title="Test image"><span class="type1"></span></a></div>
-<div id="button_topic_locked"><a href="el/button_topic_locked.png" title="Test image"><span class="type1"></span></a></div>
-<div id="button_topic_new"><a href="el/button_topic_new.png" title="Test image"><span class="type1"></span></a></div>
-<div id="button_topic_reply"><a href="el/button_topic_reply.png" title="Test image"><span class="type1"></span></a></div>
-<div id="icon_post_edit"><a href="el/icon_post_edit.png" title="Test image"><span class="type2"></span></a></div>
-<div id="icon_post_quote"><a href="el/icon_post_quote.png" title="Test image"><span class="type2"></span></a></div>
+    <div id="button_pm_forward"><a href="el/button_pm_forward.png" title="Test image"><span></span></a></div>
+    <div id="button_pm_new"><a href="el/button_pm_new.png" title="Test image"><span></span></a></div>
+    <div id="button_pm_reply"><a href="el/button_pm_reply.png" title="Test image"><span></span></a></div>
+    <div id="button_topic_locked"><a href="el/button_topic_locked.png" title="Test image"><span></span></a></div>
+    <div id="button_topic_new"><a href="el/button_topic_new.png" title="Test image"><span></span></a></div>
+    <div id="button_topic_reply"><a href="el/button_topic_reply.png" title="Test image"><span></span></a></div>
+    <div id="icon_post_edit"><a href="el/icon_post_edit.png" title="Test image"><span></span></a></div>
+    <div id="icon_post_quote"><a href="el/icon_post_quote.png" title="Test image"><span></span></a></div>
+    <div id="icon_topic_solved_set"><a href="el/icon_topic_solved_set.png" title="Test image"><span></span></a></div>
+    <div id="icon_topic_solved_unset"><a href="el/icon_topic_solved_unset.png" title="Test image"><span></span></a></div>
+    <div id="template1_90x50"><a href="el/template1_90x50.png" title="Test image"><span></span></a></div>
+    <div id="template2_60x40"><a href="el/template2_60x40.png" title="Test image"><span></span></a></div>
 </body>
 </html>
